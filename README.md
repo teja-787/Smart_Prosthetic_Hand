@@ -121,12 +121,3 @@ prosthetic-hand-emg-ml/
 
 
 ---
-
-## 👨‍💻 Developed By
-
-TEJA and team  
-BTech AI in Medical Engineering  
-Amrita Vishwa Vidyapeetham
-
----
-
